@@ -22,6 +22,4 @@
     <li>Programacion con objetos 1</li>
     <li>Ingles 1</li>
     <li>Sistemas operativos</li>
-</ul>
-<h3>Links</h3>
-<a href="https://www.instagram.com/seba_kunnn/">instagram</a>
+
